@@ -1,0 +1,8 @@
+-About yurself
+-IIT, branch, how did u feel in the internship
+-20-30sec video
+-zoom
+-avoid nighttime, low height
+
+Draft: 
+Hello, I am BIbek Lakra. Currently, I am pursuing BTech in Electrcal engneering in IIT Kanpur. I have a great passion towards softwares and their impact on utilities in daily life. I has been joined Applib Open Harmony community since this May. I enjoying and learning a lot with the community. I am really happy by seeing the progress of the community. More than that I have also contributed to the OPen source and I am grateful to Applib OPenharmony community to provide me with a chance to contribute. The training material was amazing. I learned about typescript and android development a lot. Even though I knew abut JS a little bit, the matrial gave me a insight which was unique and new things about JS.
